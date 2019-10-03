@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/ipragmatech_checkoutstep",
+    "name": "OpenMageModuleFostering\/ipragmatech_checkoutstep",
     "type": "magento-module",
     "license": "GNU-General-Public-Licence-(GPL)",
     "homepage": "",
     "description": "Added the custom Form in Checkout process. Also added the admin setting to export the data of custom table.",
     "authors": [
-    {
-        "name": "iPragmatech",
-        "email": "info@ipragmatech.com"
-    }
-],
+        {
+            "name": "iPragmatech",
+            "email": "info@ipragmatech.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
